@@ -42,3 +42,6 @@
 🌐 [Portfolio (Coming Soon!)]()  
 📫 Reach me at: *upasanapawar976@email.com*
 
+![snake gif](https://github.com/Upasana-Pawar/Upasana-Pawar/blob/output/github-contribution-grid-snake.svg)
+
+
