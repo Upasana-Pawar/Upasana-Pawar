@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Upasana Pawar  
 
-<!--
-**Upasana-Pawar/Upasana-Pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 **AI & Coding Enthusiast | Data & Automation Explorer | Problem Solver**  
 
-Here are some ideas to get you started:
+🚀 Exploring the intersection of **AI**, **automation**, and **full-stack development**.  
+🎯 Currently completing my **30-Day AI Challenge** — learning one concept every day!  
+💡 Passionate about **building intelligent systems** that make human life easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I'm Learning  
+- Machine Learning & Data Science  
+- Model Explainability (SHAP, LIME)  
+- Flask & Streamlit App Development  
+- Computer Vision (YOLO, MediaPipe)  
+
+---
+
+### 🧩 Featured Projects  
+🌟 [AI-30-Days-Challenge](https://github.com/Upasana-Pawar/AI-30-days-challenge) — 30 days of learning AI, one concept at a time.  
+🤖 [Gesture-Vision-Lab](https://github.com/Upasana-Pawar/gesture-vision-lab) — Real-time gesture recognition using YOLOv8 + MediaPipe.  
+🖐️ [Hand-Gesture-Project](https://github.com/Upasana-Pawar/Hand-Gesture-Project) — Detect and classify hand gestures in real-time.
+
+---
+
+### 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Upasana-Pawar&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-Pawar&layout=compact&theme=radical)
+
+---
+
+### 🪶 Let's Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/upasana-pawar/)  
+🌐 [Portfolio (Coming Soon!)]()  
+📫 Reach me at: *upasanapawar976@email.com*
+
