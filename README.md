@@ -1,3 +1,11 @@
+<!-- Typing effect intro -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79EFA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Upasana!;AI+%26+Automation+Enthusiast;Machine+Learning+Explorer)](https://git.io/typing-svg)
+
+<!-- Visitor badge -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Upasana-Pawar)
+
+---
+
 # 👋 Hi, I'm Upasana Pawar  
 
 💫 **AI & Coding Enthusiast | Data & Automation Explorer | Problem Solver**  
