@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Developer;Data+%26+Automation+Explorer;Building+Meaningful+AI+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Explorer;Building+Intelligent+Systems+Every+Day;Turning+Ideas+Into+Automation" alt="Typing SVG"/>
 </p>
 
 <div align="center">
@@ -10,84 +10,105 @@
 
 # 👋 Hi, I'm **Upasana Pawar**
 
-🎓 **AI Engineer & Machine Learning Enthusiast**  
-📍 Leeds, United Kingdom  
-💡 Passionate about building practical, human-centred AI systems.
+🎓 **MSc Applied Computer Science & Artificial Intelligence**  
+💼 AI Data Analyst (Intern) | Prompt Engineering Intern (Completed)  
+📍 Based in the UK | Exploring AI, automation & intelligent systems
 
-I work across **AI, machine learning, automation, computer vision, and data-driven development**, with hands-on experience from real projects, academic research, and internships focused on AI Data Analysis and Prompt Engineering.
-
----
-
-## ✨ Core Focus Areas
-- Machine Learning & Classical Models  
-- Computer Vision (OpenCV, MediaPipe)  
-- Data Analysis & Visualization  
-- Automation & AI Agents (n8n, LangChain basics)  
-- Prompt Engineering & LLM Behaviour Optimization  
-- Model Deployment (Flask, Streamlit)  
-- Cloud Fundamentals (Azure – in progress)
+I love working at the intersection of **Machine Learning, AI Engineering, Computer Vision, Data Analysis, and Intelligent Automation**.  
+My approach is simple: **learn fast, build consistently, and improve continuously.**
 
 ---
 
-## 🧰 **Tech Stack**
-<p align="left">
+# 🧩 **Skills Snapshot**  
+*(From my academic background, internships, and major projects)*
+
+### 🔹 Programming  
+`Python` · `Java` · `C` · `C++` · `JavaScript` · `SQL`
+
+### 🔹 Machine Learning & AI  
+`Scikit-learn` · `TensorFlow` · `OpenCV` · `Mediapipe`  
+Machine Learning · Classification Models · Computer Vision  
+Feature Engineering · Model Evaluation and Tuning
+
+### 🔹 AI Engineering & Automation  
+`Prompt Engineering` · `LLM Optimization`  
+`n8n AI Agents` · `LangChain (Basics)`  
+RAG Workflows · Multi-Agent Systems
+
+### 🔹 Data & Cloud  
+Data Cleaning · EDA · Automated Insights  
+Tableau · MySQL · Azure Fundamentals (ongoing)
+
+### 🔹 Development & Tools  
+`Git` · `GitHub` · `Docker` · `VS Code`  
+React.js (Basics) · HTML · CSS  
+
+---
+
+# 🌟 **Pinned: Hand Hygiene Scanner – MSc Dissertation Project**
+### *(Computer Vision · ML · OpenCV · Mediapipe · Python)*
+
+📌 **Repo:**  
+🔗 https://github.com/Upasana-Pawar/Hand-Gesture-Project
+
+This project explores **hand gesture recognition for hygiene compliance**, integrating  
+👉 Computer Vision  
+👉 Machine Learning Classification  
+👉 Real-time Pose & Motion Detection  
+
+Built with **OpenCV**, **MediaPipe**, and **ML algorithms**, this system identifies hand posture and movement patterns in real-time and evaluates compliance accuracy.
+
+**Key Highlights:**  
+- Designed as part of my **Master’s dissertation (75%)**  
+- Implemented gesture detection pipelines using **MediaPipe Hands**  
+- Created hygiene-specific feature extraction for compliance scoring  
+- Built classification models to identify hand posture sequences  
+- Explored real-time deployment possibilities and performance metrics  
+
+---
+
+# 🧪 Featured Projects
+
+### 🧩 **AI-30-days-challenge**  
+Daily ML mini-projects: preprocessing → modeling → evaluation → explainability.  
+🔗 https://github.com/Upasana-Pawar/AI-30-days-challenge
+
+### ✋ **gesture-vision-lab (YOLO + Mediapipe Experiments)**  
+Exploring CV methods for gesture detection & human–computer interaction.  
+🔗 https://github.com/Upasana-Pawar/gesture-vision-lab
+
+### ✋ **Hand-Gesture-Project**  
+Core CV pipeline for gesture detection, classification & motion tracking.  
+🔗 https://github.com/Upasana-Pawar/Hand-Gesture-Project
+
+---
+
+# 🛠️ Tech & Tools
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-009688?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-## 🌟 **Featured Project (Dissertation Work)**
-
-### 🧼 **Computer Vision–Assisted Hand Hygiene Scanner**
-**Tech:** Python, OpenCV, MediaPipe, Machine Learning  
-**Repo:** 👉 https://github.com/Upasana-Pawar/Hand-Gesture-Project
-
-A research-driven CV system designed to analyse hand posture and movement patterns for hygiene compliance.  
-- Built custom image-processing pipelines  
-- Developed gesture classification logic  
-- Optimized for real-time detection  
-- Scored **75%** in MSc Dissertation Evaluation  
-- Demonstrates strong foundations in computer vision + ML engineering
-
----
-
-## 📂 Highlighted Projects
-### 📘 **AI-30-Days-Challenge**
-Daily ML exercises covering preprocessing, modelling, explainability, mini deployment, and more.  
-🔗 https://github.com/Upasana-Pawar/AI-30-days-challenge
-
-### ✋ **Gesture Vision Lab**
-Explorations with YOLO, MediaPipe and real-time gesture recognition.  
-🔗 https://github.com/Upasana-Pawar/gesture-vision-lab
-
-### ✨ **Hand Gesture Project**
-Signal extraction + classification experiments for gesture-based interactions.  
-🔗 https://github.com/Upasana-Pawar/Hand-Gesture-Project
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Upasana-Pawar&show_icons=true&count_private=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-Pawar&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Upasana-Pawar&show_icons=true&count_private=true&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-Pawar&layout=compact&theme=tokyonight" height="140"/>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/upasanapawar">
+  <a href="https://www.linkedin.com/in/upasanapawar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:upasanapawar976@gmail.com">
@@ -95,8 +116,11 @@ Signal extraction + classification experiments for gesture-based interactions.
   </a>
 </p>
 
+---
+
 <p align="center">
-  <i>“Turning ideas into intelligent systems.”</i><br>
-  <b>— Upasana Pawar</b>
+  <i>“Turning concepts into intelligent systems.”</i><br>
+  <b>— Upasana Pawar 🪶</b>
 </p>
+
 
