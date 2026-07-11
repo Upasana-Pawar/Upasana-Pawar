@@ -8,119 +8,105 @@
 
 ---
 
-# 👋 Hi, I'm **Upasana Pawar**
+<div align="center">
 
-🎓 **MSc Applied Computer Science & Artificial Intelligence**  
-💼 AI Data Analyst (Intern) | Prompt Engineering Intern (Completed)  
-📍 Based in the UK | Exploring AI, automation & intelligent systems
+# 👋 Hi, I'm **Upasana Pawar** 👩🏽‍💻✨
 
-I love working at the intersection of **Machine Learning, AI Engineering, Computer Vision, Data Analysis, and Intelligent Automation**.  
-My approach is simple: **learn fast, build consistently, and improve continuously.**
 
----
+🎓 **MSc Applied Computer Science & AI** 
+📍 Based in the UK | Engineering automation, intelligent interfaces, & predictive systems
 
-# 🧩 **Skills Snapshot**  
-*(From my academic background, internships, and major projects)*
+I bridge the gap between complex algorithms and practical automation. My core engineering ethos is simple: **learn fast, build natively, and architect continuously.**
 
-### 🔹 Programming  
-`Python` · `Java` · `C` · `C++` · `JavaScript` · `SQL`
-
-### 🔹 Machine Learning & AI  
-`Scikit-learn` · `TensorFlow` · `OpenCV` · `Mediapipe`  
-Machine Learning · Classification Models · Computer Vision  
-Feature Engineering · Model Evaluation and Tuning
-
-### 🔹 AI Engineering & Automation  
-`Prompt Engineering` · `LLM Optimization`  
-`n8n AI Agents` · `LangChain (Basics)`  
-RAG Workflows · Multi-Agent Systems
-
-### 🔹 Data & Cloud  
-Data Cleaning · EDA · Automated Insights  
-Tableau · MySQL · Azure Fundamentals (ongoing)
-
-### 🔹 Development & Tools  
-`Git` · `GitHub` · `Docker` · `VS Code`  
-React.js (Basics) · HTML · CSS  
+</div>
 
 ---
 
-# 🌟 **Pinned: Hand Hygiene Scanner – MSc Dissertation Project**
-### *(Computer Vision · ML · OpenCV · Mediapipe · Python)*
-
-📌 **Repo:**  
-🔗 https://github.com/Upasana-Pawar/Hand-Gesture-Project
-
-This project explores **hand gesture recognition for hygiene compliance**, integrating  
-👉 Computer Vision  
-👉 Machine Learning Classification  
-👉 Real-time Pose & Motion Detection  
-
-Built with **OpenCV**, **MediaPipe**, and **ML algorithms**, this system identifies hand posture and movement patterns in real-time and evaluates compliance accuracy.
-
-**Key Highlights:**  
-- Designed as part of my **Master’s dissertation (75%)**  
-- Implemented gesture detection pipelines using **MediaPipe Hands**  
-- Created hygiene-specific feature extraction for compliance scoring  
-- Built classification models to identify hand posture sequences  
-- Explored real-time deployment possibilities and performance metrics  
+### ⚡ What I'm Up To Right Now
+* 🤖 **Agentic Frameworks:** Architecting multi-step software engineering cycles using the **Antigravity CLI** and Gemini multi-model meshes.
+* 🌐 **Serverless Pipelines:** Building and orchestrating background Flask architectures integrated with automated XML feeds and external webhooks.
+* 📈 **Continuous Delivery:** Transitioning from standalone prototyping to structured, version-controlled repository environments.
 
 ---
 
-# 🧪 Featured Projects
+# 🛠️ Tech Stack & Capabilities
 
-### 🧩 **AI-30-days-challenge**  
-Daily ML mini-projects: preprocessing → modeling → evaluation → explainability.  
-🔗 https://github.com/Upasana-Pawar/AI-30-days-challenge
-
-### ✋ **gesture-vision-lab (YOLO + Mediapipe Experiments)**  
-Exploring CV methods for gesture detection & human–computer interaction.  
-🔗 https://github.com/Upasana-Pawar/gesture-vision-lab
-
-### ✋ **Hand-Gesture-Project**  
-Core CV pipeline for gesture detection, classification & motion tracking.  
-🔗 https://github.com/Upasana-Pawar/Hand-Gesture-Project
+<table>
+  <tr>
+    <td align="left" width="50%">
+      ⚡ <b>Programming & Data</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+    </td>
+    <td align="left" width="50%">
+      🧠 <b>Machine Learning & Vision</b><br/><br/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      🤖 <b>AI Engineering & Workflow Automation</b><br/><br/>
+      <img src="https://img.shields.io/badge/n8n_Agents-EA4C89?style=flat-square&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt_Optimization-FF9900?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG_Systems-008080?style=flat-square&logo=databricks&logoColor=white"/>
+    </td>
+    <td align="left" width="50%">
+      ⚙️ <b>Development Infrastructure</b><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🛠️ Tech & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+# 🌟 Featured Projects
+
+### 🧪 [BigQuery Release Notes Web Application](https://github.com/Upasana-Pawar/-Upasana-Pawar-event-talks-app)
+* **Stack:** `Python Flask` · `Vanilla JS` · `Glassmorphic CSS3` · `Antigravity CLI Framework`
+* Fully automated agentic architecture that pulls, filters, and renders Google Cloud BigQuery RSS feeds locally. Includes an interactive modular Twitter Composer dashboard with automatic character pacing filters.
+
+### ✋ [Hand Hygiene Scanner – MSc Dissertation](https://github.com/Upasana-Pawar/Hand-Gesture-Project)
+* **Stack:** `OpenCV` · `MediaPipe Hands` · `Scikit-learn` · `Python`
+* Real-time posture tracking and movement mapping engine built to evaluate hygiene compliance sequences inside healthcare environments. Passed with a distinct **75% graduation score**.
+
+### 🧩 [AI 30-Days Challenge Lab](https://github.com/Upasana-Pawar/AI-30-days-challenge)
+* **Stack:** `Machine Learning Pipelines` · `EDA` · `Hyperparameter Tuning`
+* A structured timeline of specialized machine learning implementations covering feature engineering, custom data sanitization, model interpretability, and evaluation diagnostics.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Productivity & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Upasana-Pawar&show_icons=true&count_private=true&theme=tokyonight" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-Pawar&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upasana-Pawar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150"/>
 </p>
 
 ---
+
+<div align="center">
 
 # 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/upasanapawar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:upasanapawar976@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+*“Turning data pipelines and conceptual logic into production-ready intelligent systems.”* <b>— Upasana Pawar 🪶</b>
 
-<p align="center">
-  <i>“Turning concepts into intelligent systems.”</i><br>
-  <b>— Upasana Pawar 🪶</b>
-</p>
-
-
+</div>
