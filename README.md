@@ -12,7 +12,6 @@
 
 # 👋 Hi, I'm **Upasana Pawar** 👩🏽‍💻✨
 
-
 🎓 **MSc Applied Computer Science & AI** 
 📍 Based in the UK | Engineering automation, intelligent interfaces, & predictive systems
 
@@ -22,14 +21,17 @@ I bridge the gap between complex algorithms and practical automation. My core en
 
 ---
 
-### ⚡ What I'm Up To Right Now
-* 🤖 **Agentic Frameworks:** Architecting multi-step software engineering cycles using the **Antigravity CLI** and Gemini multi-model meshes.
-* 🌐 **Serverless Pipelines:** Building and orchestrating background Flask architectures integrated with automated XML feeds and external webhooks.
-* 📈 **Continuous Delivery:** Transitioning from standalone prototyping to structured, version-controlled repository environments.
+## 💫 About Me
+
+* 🚀 **I am currently working on:** The Google AI Intensive program, architecting advanced agentic workflows and multi-model meshes.
+* 🤝 **I am looking to collaborate on:** High-impact AI initiatives driven by a unique, problem-solving mindset that converts conceptual logic into production-ready automation.
+* 💬 **Ask me about:** AI implementation, applied machine learning, computer vision architectures, or how to write clean, native code that solves real-world operational friction.
+* ⚡ **What I'm Up To Right Now:** Architecting multi-step software engineering cycles using the **Antigravity CLI**, setting up serverless Flask pipelines, and transitioning standalone prototypes to structured, version-controlled repository environments.
+* 🎈 **Fun Fact:** I taught a computer vision engine to grade hand hygiene with a 75% distinction score—meaning I’ve spent more time analyzing handshakes and soap-scrubbing patterns than most health inspectors!
 
 ---
 
-# 🛠️ Tech Stack & Capabilities
+## 🛠️ Tech Stack & Capabilities
 
 <table>
   <tr>
@@ -69,7 +71,7 @@ I bridge the gap between complex algorithms and practical automation. My core en
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 ### 🧪 [BigQuery Release Notes Web Application](https://github.com/Upasana-Pawar/-Upasana-Pawar-event-talks-app)
 * **Stack:** `Python Flask` · `Vanilla JS` · `Glassmorphic CSS3` · `Antigravity CLI Framework`
@@ -85,7 +87,7 @@ I bridge the gap between complex algorithms and practical automation. My core en
 
 ---
 
-# 📈 Productivity & Activity
+## 📈 Productivity & Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upasana-Pawar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150"/>
@@ -95,7 +97,7 @@ I bridge the gap between complex algorithms and practical automation. My core en
 
 <div align="center">
 
-# 🤝 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/upasanapawar" target="_blank">
