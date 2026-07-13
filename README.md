@@ -90,10 +90,11 @@ I bridge the gap between complex algorithms and practical automation. My core en
 ## 📈 Productivity & Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Upasana-Pawar&layout=compact&theme=tokyonight&hide_border=true" alt="Upasana's Top Languages" height="150"/>
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upasana-Pawar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150"/>
 </p>
 
----
 
 <div align="center">
 
